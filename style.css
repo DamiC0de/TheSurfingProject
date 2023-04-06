@@ -1,0 +1,44 @@
+body {
+    align-items: center;
+}
+
+.jumbotron-hero {
+    /* Choisis la hauteur ici */
+    height: 500px;
+  
+    /* Tu lui donnes une image de background */
+    background-image: url("./static/home.jpg");
+  
+    /* Centre l'image et la met bien sur tous les écrans */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  }
+
+  .header_text {
+    color: azure;
+    text-align: center;
+    padding-top: 40px;
+  }
+
+  .buttons {
+    text-align: center;
+    padding-top: 40px;
+  }
+
+  .top_site {
+    text-align: center;
+    padding-top: 68px;
+  }
+
+.card-body {
+    text-align: center;
+    padding-top: 80px;
+}
+
+.card-body img {
+    height: 144px;
+    padding-bottom: 40px;
+}
+  
