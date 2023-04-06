@@ -33,7 +33,7 @@ body {
   }
 
 .card-body {
-    text-align: center;
+
     padding-top: 80px;
 }
 
@@ -41,4 +41,25 @@ body {
     height: 144px;
     padding-bottom: 40px;
 }
+
+
+.card p {
+    text-align: justify;
+    padding: 12px;
+}
+
+.temoins {
+    display: inline-block;
+}
+
+.temoignages{
+    display:flex;
+    flex-wrap: wrap;
+    width:auto;
+  }
+
+footer {
+    padding: 20px;
+}
+
   
